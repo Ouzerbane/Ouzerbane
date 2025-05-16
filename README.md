@@ -20,7 +20,7 @@
 - Innovative ideas and problem-solving
 
 📫 **How to Reach Me:**
-- [LinkedIn](www.linkedin.com/in/youussef-ouzerbane-177344366)
+- [LinkedIn](https://www.linkedin.com/in/youussef-ouzerbane-177344366/)
 - [Email](mailto:youussefouzerbane@gmail.com)
 
 ✨ _“Learning never exhausts the mind.” — Leonardo da Vinci_
