@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Ouzerbane
 
-<!--
-**Ouzerbane/Ouzerbane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Software Developer | 1 Year of Programming Experience**
 
-Here are some ideas to get you started:
+🌱 Currently learning and building projects using:
+- Golang
+- JavaScript
+- Next.js
+- React.js
+- HTML & CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **What I'm Focused On:**
+- Building scalable web applications
+- Writing clean, maintainable code
+- Exploring new tech stacks and tools
+
+📦 **Open to Collaboration On:**
+- Open-source projects
+- Web development challenges
+- Innovative ideas and problem-solving
+
+📫 **How to Reach Me:**
+- [LinkedIn](https://www.linkedin.com/in/ouzerbane)
+- [Email](mailto:your.email@example.com)
+
+✨ _“Learning never exhausts the mind.” — Leonardo da Vinci_
