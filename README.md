@@ -2,6 +2,12 @@
 
 # 👨‍💻 Youssef Ouzerbane
 
+🔗 **Portfolio:** https://ouzerbane.github.io/portfolio/
+
+<a href="https://ouzerbane.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2E9EF7?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Aspiring+Software+Developer+from+Morocco;Full+Stack+Developer;Spring+Boot+%2B+Angular;Always+Learning+New+Things)
 
 </div>
@@ -62,21 +68,6 @@ Focused on building clean, scalable, and modern full-stack web applications.
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ouzerbane&theme=tokyo-night&hide_border=true&cache_seconds=86400)
 
 </div>
-
-
-
-<!-- ## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ouzerbane&show_icons=true&theme=radical&cache_seconds=86400)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ouzerbane&theme=radical&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ouzerbane&layout=compact&theme=radical&cache_seconds=86400)
-
-</div> -->
-
 
 ## 🤝 Open to Collaboration
 - Open-source projects  
